@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Željko D. Đokić!
 
-<!--
-**zeljkodjokic/zeljkodjokic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🌐 Social Links
+<p>
+  <a href="https://www.linkedin.com/in/zeljkodjokic"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" title="LinkedIn" style="margin-right: 10px;" /></a>
+  <a href="https://twitter.com/zeljkodjokic4"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32" title="Twitter" style="margin-right: 10px;" /></a>
+  <a href="https://instagram.com/zeljko_djokic"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="32" title="Instagram" style="margin-right: 10px;" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🎓 Student at the Faculty of Electronic Engineering, University of Niš, majoring in Telecommunications
+ 📡 Hobby: Amateur radio
+
+ **Memberships:**
+ - 🏆 Member of Radio Club Timok YU1ACR (Zaječar)
+ - 🏆 Member of Radio Club Nikola Tesla YU1DGH (Niš)
+ - 🏆 Member of the Amateur Radio Union of Serbia YU1SRS
+ - 🏆 Member of Ethical Hacking Club, Laboratory for Advanced Security Systems, Faculty of Electronic Engineering
+ - 🏆 Member of IEEE (Institute of Electrical and Electronics Engineers)
+
+**Interests:**
+- 📶 Telecommunications
+- 📡 Antennas
+- 💡 Electronics
+- 🌐 Computer networks
+- 🔒 Cyber security
+- 🤖 Artificial intelligence
+
+**Achievements:**
+- 🦅 Eagle Scout, Scout Association of Serbia
+- 📻 Radio-amateur license - YT3YT
+
+**Programming Languages & Tools:**
+<p>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" title="MATLAB" />
+</p>
+
+---
+
+## 🏆 GitHub Stats
+![Željko's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeljkodjokic&show_icons=true&theme=radical)
+
+---
+
+## ✨ Visitors
+![Profile views](https://komarev.com/ghpvc/?username=zeljkodjokic)
+
+---
+
+## 📬 Contact
+🌐 www.zeljkodjokic.com
+✉️ contact@zeljkodjokic.com
