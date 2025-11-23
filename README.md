@@ -10,8 +10,8 @@ Welcome to my GitHub profile!
   <a href="https://instagram.com/zeljko_djokic"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="32" title="Instagram" style="margin-right: 10px;" /></a>
 </p>
 
- 🎓 Student at the Faculty of Electronic Engineering, University of Niš, majoring in Telecommunications
- 📡 Hobby: Amateur radio
+ - 🎓 Student at the Faculty of Electronic Engineering, University of Niš, majoring in Telecommunications
+ - 📡 Hobby: Amateur radio
 
  **Memberships:**
  - 🏆 Member of Radio Club Timok YU1ACR (Zaječar)
