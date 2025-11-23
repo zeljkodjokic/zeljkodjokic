@@ -16,8 +16,8 @@ Welcome to my GitHub profile!
  - 🏆 Member of Radio Club Timok YU1ACR (Zaječar)
  - 🏆 Member of Radio Club Nikola Tesla YU1DGH (Niš)
  - 🏆 Member of the Amateur Radio Union of Serbia YU1SRS
- - 🏆 Member of Ethical Hacking Club, Laboratory for Advanced Security Systems, Faculty of Electronic Engineering
  - 🏆 Member of IEEE (Institute of Electrical and Electronics Engineers)
+ - 🏆 Member of Ethical Hacking Club, Laboratory for Advanced Security Systems, Faculty of Electronic Engineering
 
 **Interests:**
 - 📶 Telecommunications
