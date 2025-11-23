@@ -20,11 +20,10 @@ Welcome to my GitHub profile!
  - 🏆 Member of Ethical Hacking Club, Laboratory for Advanced Security Systems, Faculty of Electronic Engineering
 
 **Interests:**
-- 📶 Telecommunications
 - 📡 Antennas
 - 💡 Electronics
-- 🌐 Computer networks
 - 🔒 Cyber security
+- 🌐 Computer networks
 - 🤖 Artificial intelligence
 
 **Achievements:**
