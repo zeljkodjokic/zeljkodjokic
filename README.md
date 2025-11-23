@@ -27,8 +27,8 @@ Welcome to my GitHub profile!
 - 🤖 Artificial intelligence
 
 **Achievements:**
-- 🦅 Eagle Scout, Scout Association of Serbia
 - 📻 Radio-amateur license - YT3YT
+- 🦅 Eagle Scout, Scout Association of Serbia
 
 **Programming Languages & Tools:**
 <p>
