@@ -15,42 +15,6 @@ Welcome to my GitHub profile!
 
  **Memberships:**
  - 🏆 Member of Radio Club Timok YU1ACR (Zaječar)
- - 🏆 Member of Radio Club Nikola Tesla YU1DGH (Niš)
- - 🏆 Member of the Amateur Radio Union of Serbia YU1SRS
- - 🏆 Member of IEEE (Institute of Electrical and Electronics Engineers)
  - 🏆 Member of Ethical Hacking Club, Laboratory for Advanced Security Systems, Faculty of Electronic Engineering
 
-**Interests:**
-- 📡 Antennas
-- 💡 Electronics
-- 🔒 Cyber security
-- 🌐 Computer networks
-- 🤖 Artificial intelligence
 
-**Achievements:**
-- 📻 Radio-amateur license - YT3YT
-- 🦅 Eagle Scout, Scout Association of Serbia
-
-**Programming Languages & Tools:**
-<p>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" title="MATLAB" />
-</p>
-
----
-
-## 🏆 GitHub Stats
-![Željko's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeljkodjokic&show_icons=true&theme=radical)
-
----
-
-## ✨ Visitors
-![Profile views](https://komarev.com/ghpvc/?username=zeljkodjokic)
-
----
-
-## 📬 Contact
-🌐 www.zeljkodjokic.com
-🌐 www.yt3yt.rs
-✉️ djokic@yt3yt.rs
